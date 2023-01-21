@@ -1,0 +1,24 @@
+{
+  "name": "ctxid",
+  "version": "0.1.0",
+  "description": "This is a tiny library for generating and inspecting what can be called a \"Domain Driven Design\"-like IDs, that embed metadata like type, owner, name and timestamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgeldenhuys/ctxid.git"
+  },
+  "keywords": [
+    "domain-driven-design",
+    "id",
+    "context"
+  ],
+  "author": "Herman Geldenhuys",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hgeldenhuys/ctxid/issues"
+  },
+  "homepage": "https://github.com/hgeldenhuys/ctxid#readme"
+}
