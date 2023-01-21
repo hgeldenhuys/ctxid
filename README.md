@@ -34,7 +34,7 @@ or "universal" or as not belonging to a specific owner.
 
 `/type/context-id/type/context-id`
 
-A nested domain or subdomain is just added as a prefix to the ID:
+A nested domain or subdomain is just added as a postfix to the ID:
 `domain/type/context-id/sub-domain/sub-context-id/.../.../...`
 
 ### Example
