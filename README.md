@@ -1,4 +1,4 @@
-# ctxid - DDD context ID Scheme
+# ctxid - ContextID scheme for DDD
 
 This is a tiny library for generating and inspecting what can be called
 a "Domain Driven Design"-like IDs, that embed metadata like type, owner, 
